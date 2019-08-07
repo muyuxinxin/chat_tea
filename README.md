@@ -1,7 +1,8 @@
 # chat_tea
 this project for study
 > 1. 整理linux 常用的命令
-  2. java 路线 + guava
+  2. java 路线 
+               + guava
                + spring cloud
                + oracle
                + dubbo
