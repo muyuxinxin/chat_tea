@@ -12,4 +12,5 @@ this project for study
        + hadoop(hbase,hive)
        + storm/spark
        + dubbo
+	   + kafka
   3. 协议mqtt emq
